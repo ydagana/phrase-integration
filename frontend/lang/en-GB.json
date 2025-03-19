@@ -7142,5 +7142,9 @@
   },
   "workspaces.workspace_settings": {
     "defaultMessage": "Workspace settings"
+  },
+  "workspaces.test_string_ydagana": {
+    "defaultMessage": "Test string to test integration"
   }
 }
+
