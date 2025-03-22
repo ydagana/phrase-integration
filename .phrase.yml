@@ -1,13 +1,12 @@
 phrase:
-  project_id: a97f8a086fee56f9a4a8514205dc570e
-  access_token: token_here
+  project_id: 2ef66a6e081b97950f24f8d83da110d5
 
   push:
     sources:
       - file: ./frontend/lang/en-GB.json
         params:
           file_format: simple_json
-          locale_id: abfc3b0abd4e58606f72fb9bbf4422e7
+          locale_id: cad77f9025d5f8f2da449706b4756b36
           autotranslate: true
 
   pull:
@@ -15,5 +14,5 @@ phrase:
       - file: ./frontend/lang/fr-CA.json
         params:
           file_format: simple_json
-          locale_id: 6fad8fec3d2ffacc95143fc70d9467a7
+          locale_id: 85f94a70c376cbd8433a499efe3cb1d0
 

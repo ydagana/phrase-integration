@@ -15,6 +15,21 @@
     "defaultMessage": "T",
     "description": "Abbreviation for Trillions"
   },
+  "actionfeed.your_actionfeed": {
+    "defaultMessage": "Your actionfeed"
+  },
+  "auth.login.futrli_advisor_email": {
+    "defaultMessage": "Futrli Advisor Email"
+  },
+  "auth.login.futrli_advisor_password": {
+    "defaultMessage": "Futrli Advisor Password"
+  },
+  "billing.address_line1_placeholder": {
+    "defaultMessage": "Address line 1"
+  },
+  "billing.address_line2_placeholder": {
+    "defaultMessage": "Address line 2 (optional)"
+  },
   "workspaces.test_string_ydagana": {
     "defaultMessage": "Test string to test integration"
   }
