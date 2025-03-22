@@ -6,7 +6,7 @@ phrase:
     sources:
       - file: ./frontend/lang/en-GB.json
         params:
-          file_format: json
+          file_format: simple_json
           locale_id: abfc3b0abd4e58606f72fb9bbf4422e7
           autotranslate: true
 
@@ -14,6 +14,6 @@ phrase:
     targets:
       - file: ./frontend/lang/fr-CA.json
         params:
-          file_format: json
+          file_format: simple_json
           locale_id: 6fad8fec3d2ffacc95143fc70d9467a7
 
