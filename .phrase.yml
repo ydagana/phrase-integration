@@ -8,7 +8,7 @@ phrase:
         params:
           file_format: json
           locale_id: abfc3b0abd4e58606f72fb9bbf4422e7
-          auto_translate: true
+          autotranslate: true
 
   pull:
     targets:
