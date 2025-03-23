@@ -1,5 +1,6 @@
 phrase:
   project_id: 2ef66a6e081b97950f24f8d83da110d5
+  access_token: token_here
 
   push:
     sources:
