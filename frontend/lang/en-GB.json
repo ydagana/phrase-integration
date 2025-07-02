@@ -13,6 +13,9 @@
   },
   "workspaces.current_workspace_name": {
     "defaultMessage": "Current workspace name"
+  },
+  "workspaces.new_test_string": {
+    "defaultMessage": "This is a new string for testing purposes."
   }
 }
 
