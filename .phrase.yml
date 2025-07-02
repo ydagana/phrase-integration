@@ -4,13 +4,13 @@ phrase:
     sources:
       - file: ./frontend/lang/en-GB.json
         params:
-          file_format: i18next
+          file_format: react_simple_json
           locale_id: 808cf1408742c54b2899e965b51519eb
 
   pull:
     targets:
       - file: ./frontend/lang/fr-fr.json
         params:
-          file_format: i18next
+          file_format: react_simple_json
           locale_id: e969e624cf03d0742a13bc1a1a919802
 
