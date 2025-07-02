@@ -16,6 +16,15 @@
   },
   "workspaces.new_test_string": {
     "defaultMessage": "This is a new string for testing purposes."
+  },
+  "common.valid_for_n_days": {
+    "defaultMessage": "valid for {dayDiff, plural, one {# day} other {# days}}"
+  },
+  "common.value_recurrences": {
+    "defaultMessage": "{count, plural, one {# occurrence} other {# occurrences}}"
+  },
+  "common_max_length": {
+    "defaultMessage": "Maximum length is {max} characters."
   }
 }
 
