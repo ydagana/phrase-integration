@@ -1,4 +1,7 @@
 {
+  "common_max_length.defaultMessage": "La longueur maximale est de {max} caractères.",
+  "common.valid_for_n_days.defaultMessage": "valable pour {dayDiff, plural, one {# jour} other {# jours}}",
+  "common.value_recurrences.defaultMessage": "{count, plural, one {# occurrence} other {# occurrences}}",
   "validation.passwords_do_not_match.defaultMessage": "Les mots de passe ne correspondent pas encore.",
   "validation.we_only_allow_up_to_100_characters.defaultMessage": "Oups, nous n'autorisons que 100 caractères.",
   "workspace.workspaces_page.defaultMessage": "Page des espaces de travail",
