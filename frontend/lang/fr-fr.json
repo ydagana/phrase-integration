@@ -1,26 +1,8 @@
 {
-  "validation": {
-    "passwords_do_not_match": {
-      "defaultMessage": "Les mots de passe ne correspondent pas encore."
-    },
-    "we_only_allow_up_to_100_characters": {
-      "defaultMessage": "Oups, nous n'autorisons que 100 caractères."
-    }
-  },
-  "workspace": {
-    "workspaces_page": {
-      "defaultMessage": "Page des espaces de travail"
-    }
-  },
-  "workspaces": {
-    "change_workspace_name": {
-      "defaultMessage": "Modifier le nom de l'espace de travail"
-    },
-    "current_workspace_name": {
-      "defaultMessage": "Nom de l'espace de travail actuel"
-    },
-    "new_test_string": {
-      "defaultMessage": "Il s'agit d'une nouvelle chaîne à des fins de test."
-    }
-  }
+  "validation.passwords_do_not_match.defaultMessage": "Les mots de passe ne correspondent pas encore.",
+  "validation.we_only_allow_up_to_100_characters.defaultMessage": "Oups, nous n'autorisons que 100 caractères.",
+  "workspace.workspaces_page.defaultMessage": "Page des espaces de travail",
+  "workspaces.change_workspace_name.defaultMessage": "Modifier le nom de l'espace de travail",
+  "workspaces.current_workspace_name.defaultMessage": "Nom de l'espace de travail actuel",
+  "workspaces.new_test_string.defaultMessage": "Il s'agit d'une nouvelle chaîne à des fins de test."
 }
