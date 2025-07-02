@@ -1,0 +1,14 @@
+phrase:
+  project_id: ccca5d2028e8345d6f593706aec5ab8b
+  push:
+    sources:
+      - file: ./frontend/lang/en-GB.json
+        params:
+          file_format: i18next
+
+  pull:
+    targets:
+      - file: ./frontend/lang/fr-fr.json
+        params:
+          file_format: i18next
+
