@@ -4,6 +4,7 @@ phrase:
     sources:
       - file: ./frontend/lang/en-GB.json
         params:
+          update_translations: true
           file_format: react_simple_json
           locale_id: 808cf1408742c54b2899e965b51519eb
 
