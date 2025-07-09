@@ -25,6 +25,12 @@
   },
   "common_max_length": {
     "defaultMessage": "Maximum length is {max} characters."
+  },
+  "common.test_phrase": {
+    "defaultMessage": "testing phrase"
+  },
+  "common.test_phrase_new": {
+    "defaultMessage": "testing phrase new"
   }
 }
 
