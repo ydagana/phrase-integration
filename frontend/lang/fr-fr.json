@@ -1,5 +1,6 @@
 {
   "common_max_length.defaultMessage": "La longueur maximale est de {max} caractères.",
+  "common.test_phrase_new.defaultMessage": "phrase d'essai nouvelle",
   "common.test_phrase.defaultMessage": "phrase de test",
   "common.valid_for_n_days.defaultMessage": "valable pour {dayDiff, plural, one {# jour} other {# jours}}",
   "common.value_recurrences.defaultMessage": "{count, plural, one {# occurrence} other {# occurrences}}",
