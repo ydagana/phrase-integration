@@ -12,6 +12,6 @@ phrase:
     targets:
       - file: ./frontend/lang/fr-fr.json
         params:
-          file_format: react_nested_json
+          file_format: react_simple_json
           locale_id: e969e624cf03d0742a13bc1a1a919802
 
