@@ -5,13 +5,13 @@ phrase:
       - file: ./frontend/lang/en-GB.json
         params:
           update_translations: true
-          file_format: react_simple_json
+          file_format: react_intl
           locale_id: 808cf1408742c54b2899e965b51519eb
 
   pull:
     targets:
       - file: ./frontend/lang/fr-fr.json
         params:
-          file_format: react_simple_json
+          file_format: react_intl
           locale_id: e969e624cf03d0742a13bc1a1a919802
 
