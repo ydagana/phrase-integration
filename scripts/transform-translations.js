@@ -49,3 +49,4 @@ files.forEach((file) => {
   fs.writeFileSync(filePath, JSON.stringify(descriptors, null, 2));
   console.log(`✅ Transformed ${file}`);
 });
+
