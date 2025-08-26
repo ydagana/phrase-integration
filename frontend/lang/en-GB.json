@@ -1,2 +1,18 @@
-{}
+{
+  "wsc.user_invite.hello_user": {
+    "defaultMessage": "Hey {inviter_first_name},",
+    "description": "Greeting for user invitation email"
+  },
+  "wsc.user_invite.new_user.body": {
+    "defaultMessage": "{inviter_name} has invited you into Futrli. Please click the link below to gain access and set up a password.",
+    "description": "Body text for new user invitation email"
+  },
+  "wsc.user_invite.new_user.subject": {
+    "defaultMessage": "{inviter_first_name} has invited you to join {workspace_name}",
+    "description": "Subject for new user invitation email"
+  },
+  "common.users_selected": {
+    "defaultMessage": "{userNum, plural, one {# user} other {# users}} selected"
+  }
+}
 
