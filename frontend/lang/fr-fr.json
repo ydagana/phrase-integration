@@ -1,1 +1,6 @@
-{}
+{
+  "common.users_selected": "{userNum, plural, one {# user} other {# users}} sélectionné(s)",
+  "wsc.user_invite.hello_user": "Bonjour {inviter_first_name},",
+  "wsc.user_invite.new_user.body": "{inviter_name} vous a invité à rejoindre Futrli. Cliquez sur le lien ci-dessous pour obtenir un accès et un mot de passe.",
+  "wsc.user_invite.new_user.subject": "{inviter_first_name} vous a invité à rejoindre {workspace_name}"
+}
